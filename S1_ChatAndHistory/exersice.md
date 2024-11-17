@@ -8,6 +8,7 @@ Follow the steps below:
 
 1. **Create `actor_picker` Function**:
    - Write a function named `actor_picker()` that randomly returns an actor's name. You can use Python's random generator to select an actor.
+   
 
 2. **Create `location_picker` Function**:
    - Write a function named `location_picker()` that randomly returns the name of a location.

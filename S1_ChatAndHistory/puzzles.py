@@ -32,6 +32,11 @@ def puzzles(puzzleName):
         return """A woman opened a door, screamed and was found dead a few minutes later. 
         No gunshots were heard in the area. 
         What happened to her?"""
+    elif puzzleName == "horserun":
+        return """There are 25 horses among which you need to find out the fastest 3 horses.
+          You can conduct a race among at most 5 to find out their relative speed.
+          At no point, you can find out the actual speed of the horse in a race.
+          Find out the minimum no. of races which are required to get the top 3 horses."""
     else:
         return """Four men, one of whom was known to have committed a certain crime, 
         made the following statements when questioned by the police:
